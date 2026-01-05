@@ -1,4 +1,6 @@
  👋 Hi, I'm Reginaldo Portella
+  Building modern and scalable web applications with React and Node.js.
+ 
 
 💻 Full Stack Developer Jr  
 🎓 Analysis and Systems Development (2025)  
