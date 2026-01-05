@@ -27,7 +27,7 @@
 - Next.js
 - TypeScript
 - Tailwind CSS
-- Material UI
+
 
 * Back-end
 - Node.js
